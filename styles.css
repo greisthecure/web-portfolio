@@ -1,1 +1,31 @@
+h2, h4 {
+  text-align: center;
+  color: #fff;
+  font-family: Times New Roman, serif;
+  font-size: 24px;
+  padding-top: 270px;         
+  margin: 0px;                
+}
+
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+  color: darkslategrey;
+}
+
+body {
+  margin: 0;
+  background-color: gray;
+}
+
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
 
